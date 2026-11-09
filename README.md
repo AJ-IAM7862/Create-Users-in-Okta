@@ -6,7 +6,6 @@ commonly used by IAM administrators when onboarding new employees or contractors
 - Okta
 <h2>Operating Systems Used </h2>
 - Windows 11
-<h2>Created the two users Amy Adams and Renee Hayes manually.</h2>
+<h2>Created the two users Amy Rawlings and Ariana Sanchez manually.</h2>
 <p>
-<img width="982" height="122" alt="image"
-src="https://github.com/user-attachments/assets/7ec48c2c-3244-47b9-bb64-917eae155727" />
+<img width="953" height="472" alt="Creating Users in Okta" src="https://github.com/user-attachments/assets/2eea8f5e-0008-4291-9116-4ac49e3ec0ca" />
